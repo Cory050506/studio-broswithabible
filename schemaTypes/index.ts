@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import episode from './episode'
+export const schemaTypes = [episode]
