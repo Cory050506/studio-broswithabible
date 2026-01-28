@@ -40,7 +40,7 @@ const episode = {
       name: 'facebookUrl',
       title: 'Facebook Video URL',
       type: 'url',
-      hidden: true,
+      hidden: false,
     },
 
     {
